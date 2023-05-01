@@ -109,8 +109,16 @@
     margin: 5% 11% 2.5% 11%
 }
 .icon1{
-    margin: 5% 1000% 15% 200%;
-    
+    margin: 5% 200% 15% 200%;
+    width: 100px;
+}
+.icon2{
+    margin: 5% 200% 15% 200%;
+    width: 100px;
+}
+.icon3{
+    margin: 5% 200% 15% 200%;
+    width: 100px;
 }
 
 .submit2{
