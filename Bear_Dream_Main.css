@@ -183,6 +183,15 @@
     .submit3{
         font-size: 76%;
     }
+    .icon1{
+        width: 60%;
+    }
+    .icon2{
+        width: 60%;
+    }
+    .icon3{
+        width: 60%;
+    }
 }
 @media (min-width: 1000px) and (max-width: 1300px) {
     .flex-container6{
