@@ -1,7 +1,15 @@
 *{
     background: #733026;
 }
-
+.icon1{
+    width: 30%;
+}
+.icon2{
+    width: 30%;
+}
+.icon3{
+    width: 30%;
+}
 .submit1{
     margin: 1% 35% 0.75% 20%;
     color: #F5E9E9;
