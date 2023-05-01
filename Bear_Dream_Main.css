@@ -183,11 +183,14 @@
     .submit3{
         font-size: 76%;
     }
-    .icon1{
+   .icon1{
+        margin-right: 75%;
+        margin-left: 75%;
         width: 60%;
     }
     .icon2{
         width: 60%;
+        margin-right: 75%;
     }
     .icon3{
         width: 60%;
