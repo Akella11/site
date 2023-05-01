@@ -206,3 +206,12 @@
         margin-right: 60%;
     }
 }
+@media (max-width: 400px) {
+    .flex-container6{
+        margin-right: 60%;
+    }
+    .im1{
+        width: 6.8%;
+        height: 5.5%;
+    }
+}
