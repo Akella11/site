@@ -240,6 +240,15 @@
     p {
         font-size: calc(14px + (18 - 14) * ( (100vw - 480px) / ( 1024 - 480) ));
     }
+    .icon1{
+        width: 90%;
+    }
+    .icon2{
+        width: 90%;
+    }
+    .icon3{
+        width: 90%;
+    }
 }
 @media (min-width: 1000px) and (max-width: 1300px) {
     .flex-container6{
